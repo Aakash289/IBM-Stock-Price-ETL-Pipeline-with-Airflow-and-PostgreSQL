@@ -2,6 +2,7 @@
 This project implements a complete ETL (Extract, Transform, Load) pipeline using Apache Airflow, which retrieves hourly IBM stock price data via the yFinance API, processes it, and stores it into a PostgreSQL database.
 
 📌 Features
+
 ✅ Automated ETL pipeline scheduled with Airflow's @daily schedule
 
 ✅ Data Extraction using Yahoo Finance (yfinance)
