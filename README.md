@@ -18,6 +18,9 @@ Type coercion and null handling
 ✅ Error handling and fallbacks for robustness
 
 Tool/Library	Role
+
 Apache Airflow	Workflow orchestration (ETL DAGs)
+
 yFinance	IBM stock data API
+
 PostgreSQL	Target database
